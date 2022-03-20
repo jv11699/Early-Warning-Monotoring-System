@@ -11,19 +11,5 @@ Dr. Kenny Joseph
 ## Built With
 
 * https://www.census.gov/developers/ US cencus API: 
-* https://www.crummy.com/software/BeautifulSoup/bs4/doc/ Beautiful Soup: Data Extraction
-* https://matplotlib.org/ matplotlib: for data visualization
 
-
-## Authors
-
---Needs Edit 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## Acknowledgments
-
-by jorisvandenbossche and sjsrey, This was used as a template for the completion of visualizing our data 
-https://github.com/geopandas/scipy2018-geospatial-data/blob/master/01-introduction-geospatial-data.ipynb
 
